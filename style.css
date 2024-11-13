@@ -1,0 +1,56 @@
+body{
+    background-color: gainsboro;
+}
+.container
+{
+    height: 550px;
+    width: 400px;
+    margin-left: 525px;
+    margin-top: 120px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 3px;
+    
+
+}
+h3{
+    text-decoration: none;
+    margin-left: 70px;
+
+}
+.written{
+    
+}
+#quantity{
+    margin-left: 90px;
+}
+#text{
+    margin-left: 50px;
+}
+#price{
+    margin-left: 67px;
+}
+.btn{
+    color: white;
+    background-color: green;
+    margin-left: 90px;
+    border-radius: 3px;
+    padding: 5px;
+    /* text-decoration: none; */
+    border: none;
+
+}
+.btn:hover{
+    color: blanchedalmond;
+    background-color: darkgreen;
+}
+.image{
+    width: 200px;
+    /* height: 200px; */
+    margin-left: 30px;
+
+}
