@@ -34,7 +34,7 @@ h3{
 #price{
     margin-left: 67px;
 }
-.btn{
+#btn{
     color: white;
     background-color: green;
     margin-left: 90px;
@@ -44,7 +44,7 @@ h3{
     border: none;
 
 }
-.btn:hover{
+#btn:hover{
     color: blanchedalmond;
     background-color: darkgreen;
 }
